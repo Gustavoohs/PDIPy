@@ -1,4 +1,4 @@
-# PDIcomPython
+# PDIPy
 Série PDI com python (lives e posts)
 
 # Dados
